@@ -1,1 +1,1 @@
-# mynews
+# podcasts
